@@ -47,9 +47,9 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-DEFAULT_HOST = "https://console.fynd.com/"
+DEFAULT_HOST = "https://api.fynd.com"
 # createProduct in Fynd's Platform catalog reference. (v2.0 on this address is "List products".)
-DEFAULT_CREATE_PATH = "commerce/asia-south1/accounts/17411/products/list"
+DEFAULT_CREATE_PATH = "/service/platform/catalog/v3.0/company/17411/products/"
 
 MAX_RETRIES = 5
 
