@@ -1,0 +1,468 @@
+[
+  {
+    "item_code": "MER-TS-001-RED",
+    "style_sku": "MER-TS-001",
+    "name": "Classic Crew Neck T-Shirt - Red",
+    "slug": "classic-crew-neck-t-shirt-red-mer-ts-001",
+    "brand": "Meridian",
+    "colour": "Red",
+    "description": "100% cotton crew neck tee, regular fit.",
+    "hsn_code": "61091000",
+    "gst_rate": 5,
+    "image": "https://cdn.meridianapparel.in/img/MER-TS-001.jpg",
+    "sizes": [
+      {
+        "size": "S",
+        "sku": "MER-TS-001-RED-S",
+        "mrp": 1299.0,
+        "price_effective": 999.0
+      },
+      {
+        "size": "M",
+        "sku": "MER-TS-001-RED-M",
+        "mrp": 1299.0,
+        "price_effective": 999.0
+      },
+      {
+        "size": "L",
+        "sku": "MER-TS-001-RED-L",
+        "mrp": 1299.0,
+        "price_effective": 999.0
+      },
+      {
+        "size": "XL",
+        "sku": "MER-TS-001-RED-XL",
+        "mrp": 1299.0,
+        "price_effective": 999.0
+      }
+    ]
+  },
+  {
+    "item_code": "MER-TS-001-NAVY",
+    "style_sku": "MER-TS-001",
+    "name": "Classic Crew Neck T-Shirt - Navy",
+    "slug": "classic-crew-neck-t-shirt-navy-mer-ts-001",
+    "brand": "Meridian",
+    "colour": "Navy",
+    "description": "100% cotton crew neck tee, regular fit.",
+    "hsn_code": "61091000",
+    "gst_rate": 5,
+    "image": "https://cdn.meridianapparel.in/img/MER-TS-001.jpg",
+    "sizes": [
+      {
+        "size": "S",
+        "sku": "MER-TS-001-NAVY-S",
+        "mrp": 1299.0,
+        "price_effective": 999.0
+      },
+      {
+        "size": "M",
+        "sku": "MER-TS-001-NAVY-M",
+        "mrp": 1299.0,
+        "price_effective": 999.0
+      },
+      {
+        "size": "L",
+        "sku": "MER-TS-001-NAVY-L",
+        "mrp": 1299.0,
+        "price_effective": 999.0
+      },
+      {
+        "size": "XL",
+        "sku": "MER-TS-001-NAVY-XL",
+        "mrp": 1299.0,
+        "price_effective": 999.0
+      }
+    ]
+  },
+  {
+    "item_code": "MER-TS-001-BLACK",
+    "style_sku": "MER-TS-001",
+    "name": "Classic Crew Neck T-Shirt - Black",
+    "slug": "classic-crew-neck-t-shirt-black-mer-ts-001",
+    "brand": "Meridian",
+    "colour": "Black",
+    "description": "100% cotton crew neck tee, regular fit.",
+    "hsn_code": "61091000",
+    "gst_rate": 5,
+    "image": "https://cdn.meridianapparel.in/img/MER-TS-001.jpg",
+    "sizes": [
+      {
+        "size": "S",
+        "sku": "MER-TS-001-BLACK-S",
+        "mrp": 1299.0,
+        "price_effective": 999.0
+      },
+      {
+        "size": "M",
+        "sku": "MER-TS-001-BLACK-M",
+        "mrp": 1299.0,
+        "price_effective": 999.0
+      },
+      {
+        "size": "L",
+        "sku": "MER-TS-001-BLACK-L",
+        "mrp": 1299.0,
+        "price_effective": 999.0
+      },
+      {
+        "size": "XL",
+        "sku": "MER-TS-001-BLACK-XL",
+        "mrp": 1299.0,
+        "price_effective": 999.0
+      }
+    ]
+  },
+  {
+    "item_code": "MER-TS-002-WHITE",
+    "style_sku": "MER-TS-002",
+    "name": "Graphic Print Tee",
+    "slug": "graphic-print-tee-white-mer-ts-002",
+    "brand": "Meridian",
+    "colour": "White",
+    "description": "Soft cotton tee with chest print.",
+    "hsn_code": "6109",
+    "gst_rate": 5,
+    "image": "https://cdn.meridianapparel.in/img/MER-TS-002.jpg",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "MER-TS-002-WHITE-M",
+        "mrp": 1499.0,
+        "price_effective": 1199.0
+      },
+      {
+        "size": "L",
+        "sku": "MER-TS-002-WHITE-L",
+        "mrp": 1499.0,
+        "price_effective": 1199.0
+      },
+      {
+        "size": "XL",
+        "sku": "MER-TS-002-WHITE-XL",
+        "mrp": 1499.0,
+        "price_effective": 1199.0
+      }
+    ]
+  },
+  {
+    "item_code": "MER-JN-010-INDIGO",
+    "style_sku": "MER-JN-010",
+    "name": "Slim Fit Stretch Jeans - Indigo",
+    "slug": "slim-fit-stretch-jeans-indigo-mer-jn-010",
+    "brand": "Meridian Denim",
+    "colour": "Indigo",
+    "description": "Stretch denim, slim fit, mid rise.",
+    "hsn_code": "62034200",
+    "gst_rate": 5,
+    "image": "https://cdn.meridianapparel.in/img/MER-JN-010.jpg",
+    "sizes": [
+      {
+        "size": "28",
+        "sku": "MER-JN-010-INDIGO-28",
+        "mrp": 3299.0,
+        "price_effective": 2499.0
+      },
+      {
+        "size": "30",
+        "sku": "MER-JN-010-INDIGO-30",
+        "mrp": 3299.0,
+        "price_effective": 2499.0
+      },
+      {
+        "size": "32",
+        "sku": "MER-JN-010-INDIGO-32",
+        "mrp": 3299.0,
+        "price_effective": 2499.0
+      },
+      {
+        "size": "34",
+        "sku": "MER-JN-010-INDIGO-34",
+        "mrp": 3299.0,
+        "price_effective": 2499.0
+      },
+      {
+        "size": "36",
+        "sku": "MER-JN-010-INDIGO-36",
+        "mrp": 3299.0,
+        "price_effective": 2499.0
+      }
+    ]
+  },
+  {
+    "item_code": "MER-JN-010-BLACK",
+    "style_sku": "MER-JN-010",
+    "name": "Slim Fit Stretch Jeans - Black",
+    "slug": "slim-fit-stretch-jeans-black-mer-jn-010",
+    "brand": "Meridian Denim",
+    "colour": "Black",
+    "description": "Stretch denim, slim fit, mid rise.",
+    "hsn_code": "62034200",
+    "gst_rate": 5,
+    "image": "https://cdn.meridianapparel.in/img/MER-JN-010.jpg",
+    "sizes": [
+      {
+        "size": "28",
+        "sku": "MER-JN-010-BLACK-28",
+        "mrp": 3299.0,
+        "price_effective": 2499.0
+      },
+      {
+        "size": "30",
+        "sku": "MER-JN-010-BLACK-30",
+        "mrp": 3299.0,
+        "price_effective": 2499.0
+      },
+      {
+        "size": "32",
+        "sku": "MER-JN-010-BLACK-32",
+        "mrp": 3299.0,
+        "price_effective": 2499.0
+      },
+      {
+        "size": "34",
+        "sku": "MER-JN-010-BLACK-34",
+        "mrp": 3299.0,
+        "price_effective": 2499.0
+      },
+      {
+        "size": "36",
+        "sku": "MER-JN-010-BLACK-36",
+        "mrp": 3299.0,
+        "price_effective": 2499.0
+      }
+    ]
+  },
+  {
+    "item_code": "MER-JN-011-LIGHTBLUE",
+    "style_sku": "MER-JN-011",
+    "name": "Relaxed Fit Denim Jacket",
+    "slug": "relaxed-fit-denim-jacket-light-blue-mer-jn-011",
+    "brand": "Meridian Denim",
+    "colour": "Light Blue",
+    "description": "Washed denim jacket with button front.",
+    "hsn_code": "6201",
+    "gst_rate": 18,
+    "image": "https://cdn.meridianapparel.in/img/MER-JN-011.jpg",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "MER-JN-011-LIGHTBLUE-M",
+        "mrp": 4499.0,
+        "price_effective": 3599.0
+      },
+      {
+        "size": "L",
+        "sku": "MER-JN-011-LIGHTBLUE-L",
+        "mrp": 4499.0,
+        "price_effective": 3599.0
+      },
+      {
+        "size": "XL",
+        "sku": "MER-JN-011-LIGHTBLUE-XL",
+        "mrp": 4499.0,
+        "price_effective": 3599.0
+      }
+    ]
+  },
+  {
+    "item_code": "MER-SH-020-WHITE",
+    "style_sku": "MER-SH-020",
+    "name": "Linen Casual Shirt - White",
+    "slug": "linen-casual-shirt-white-mer-sh-020",
+    "brand": "Meridian",
+    "colour": "White",
+    "description": "Breathable linen blend shirt.",
+    "hsn_code": "62052000",
+    "gst_rate": 5,
+    "image": "https://cdn.meridianapparel.in/img/MER-SH-020.jpg",
+    "sizes": [
+      {
+        "size": "S",
+        "sku": "MER-SH-020-WHITE-S",
+        "mrp": 2199.0,
+        "price_effective": 1799.0
+      },
+      {
+        "size": "M",
+        "sku": "MER-SH-020-WHITE-M",
+        "mrp": 2199.0,
+        "price_effective": 1799.0
+      },
+      {
+        "size": "L",
+        "sku": "MER-SH-020-WHITE-L",
+        "mrp": 2199.0,
+        "price_effective": 1799.0
+      },
+      {
+        "size": "XL",
+        "sku": "MER-SH-020-WHITE-XL",
+        "mrp": 2199.0,
+        "price_effective": 1799.0
+      }
+    ]
+  },
+  {
+    "item_code": "MER-SH-020-SKYBLUE",
+    "style_sku": "MER-SH-020",
+    "name": "Linen Casual Shirt - Sky Blue",
+    "slug": "linen-casual-shirt-sky-blue-mer-sh-020",
+    "brand": "Meridian",
+    "colour": "Sky Blue",
+    "description": "Breathable linen blend shirt.",
+    "hsn_code": "62052000",
+    "gst_rate": 5,
+    "image": "https://cdn.meridianapparel.in/img/MER-SH-020.jpg",
+    "sizes": [
+      {
+        "size": "S",
+        "sku": "MER-SH-020-SKYBLUE-S",
+        "mrp": 2199.0,
+        "price_effective": 1799.0
+      },
+      {
+        "size": "M",
+        "sku": "MER-SH-020-SKYBLUE-M",
+        "mrp": 2199.0,
+        "price_effective": 1799.0
+      },
+      {
+        "size": "L",
+        "sku": "MER-SH-020-SKYBLUE-L",
+        "mrp": 2199.0,
+        "price_effective": 1799.0
+      },
+      {
+        "size": "XL",
+        "sku": "MER-SH-020-SKYBLUE-XL",
+        "mrp": 2199.0,
+        "price_effective": 1799.0
+      }
+    ]
+  },
+  {
+    "item_code": "MER-KT-030-MUSTARD",
+    "style_sku": "MER-KT-030",
+    "name": "Printed Cotton Kurta",
+    "slug": "printed-cotton-kurta-mustard-mer-kt-030",
+    "brand": "Meridian Ethnic",
+    "colour": "Mustard",
+    "description": "Straight kurta with block print.",
+    "hsn_code": "62114390",
+    "gst_rate": 5,
+    "image": "https://cdn.meridianapparel.in/img/MER-KT-030.jpg",
+    "sizes": [
+      {
+        "size": "S",
+        "sku": "MER-KT-030-MUSTARD-S",
+        "mrp": 1999.0,
+        "price_effective": 1599.0
+      },
+      {
+        "size": "M",
+        "sku": "MER-KT-030-MUSTARD-M",
+        "mrp": 1999.0,
+        "price_effective": 1599.0
+      },
+      {
+        "size": "L",
+        "sku": "MER-KT-030-MUSTARD-L",
+        "mrp": 1999.0,
+        "price_effective": 1599.0
+      },
+      {
+        "size": "XL",
+        "sku": "MER-KT-030-MUSTARD-XL",
+        "mrp": 1999.0,
+        "price_effective": 1599.0
+      },
+      {
+        "size": "XXL",
+        "sku": "MER-KT-030-MUSTARD-XXL",
+        "mrp": 1999.0,
+        "price_effective": 1599.0
+      }
+    ]
+  },
+  {
+    "item_code": "MER-CP-050-BLACK",
+    "style_sku": "MER-CP-050",
+    "name": "Baseball Cap - Black",
+    "slug": "baseball-cap-black-mer-cp-050",
+    "brand": "Meridian Active",
+    "colour": "Black",
+    "description": "Adjustable cotton cap. Image link is broken.",
+    "hsn_code": "65050090",
+    "gst_rate": 12,
+    "image": "",
+    "sizes": [
+      {
+        "size": "Free Size",
+        "sku": "MER-CP-050-BLACK-FREESIZE",
+        "mrp": 799.0,
+        "price_effective": 599.0
+      }
+    ]
+  },
+  {
+    "item_code": "MER-CP-050-WHITE",
+    "style_sku": "MER-CP-050",
+    "name": "Baseball Cap - White",
+    "slug": "baseball-cap-white-mer-cp-050",
+    "brand": "Meridian Active",
+    "colour": "White",
+    "description": "Adjustable cotton cap. Image link is broken.",
+    "hsn_code": "65050090",
+    "gst_rate": 12,
+    "image": "",
+    "sizes": [
+      {
+        "size": "Free Size",
+        "sku": "MER-CP-050-WHITE-FREESIZE",
+        "mrp": 799.0,
+        "price_effective": 599.0
+      }
+    ]
+  },
+  {
+    "item_code": "MER-SC-080-RED",
+    "style_sku": "MER-SC-080",
+    "name": "Cotton Scarf - Red",
+    "slug": "cotton-scarf-red-mer-sc-080",
+    "brand": "Meridian",
+    "colour": "Red",
+    "description": "Lowercase SKU and extra spaces, should be cleaned up.",
+    "hsn_code": "62142090",
+    "gst_rate": 12,
+    "image": "https://cdn.meridianapparel.in/img/MER-SC-080.jpg",
+    "sizes": [
+      {
+        "size": "Free Size",
+        "sku": "MER-SC-080-RED-FREESIZE",
+        "mrp": 699.0,
+        "price_effective": 499.0
+      }
+    ]
+  },
+  {
+    "item_code": "MER-SC-080-BEIGE",
+    "style_sku": "MER-SC-080",
+    "name": "Cotton Scarf - Beige",
+    "slug": "cotton-scarf-beige-mer-sc-080",
+    "brand": "Meridian",
+    "colour": "Beige",
+    "description": "Lowercase SKU and extra spaces, should be cleaned up.",
+    "hsn_code": "62142090",
+    "gst_rate": 12,
+    "image": "https://cdn.meridianapparel.in/img/MER-SC-080.jpg",
+    "sizes": [
+      {
+        "size": "Free Size",
+        "sku": "MER-SC-080-BEIGE-FREESIZE",
+        "mrp": 699.0,
+        "price_effective": 499.0
+      }
+    ]
+  }
+]

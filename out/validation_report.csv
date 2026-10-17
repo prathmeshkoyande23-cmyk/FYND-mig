@@ -1,0 +1,15 @@
+row,sku,product,status,sellable_items,problems,what_to_do
+1,MER-TS-001,Classic Crew Neck T-Shirt,Loaded,12,,
+2,MER-TS-002,Graphic Print Tee,Loaded,3,,
+3,MER-JN-010,Slim Fit Stretch Jeans,Loaded,10,,
+4,MER-JN-011,Relaxed Fit Denim Jacket,Loaded,3,,
+5,MER-TS-001,Classic Crew Neck T-Shirt (price revision),Rejected,0,SKU MER-TS-001 already appears earlier in this file. The first one was kept.,"Check which row is right. If this is a price change, update the original row instead."
+6,MER-SH-020,Linen Casual Shirt,Loaded,8,,
+7,MER-KT-030,Printed Cotton Kurta,Loaded,5,,
+8,MER-KT-031,,Rejected,0,The product name is missing.,Fill in the product name for this product and send it again.
+9,MER-TR-040,Jogger Track Pants,Rejected,0,The MRP is missing. | The selling price is missing.,Fill in the MRP for this product and send it again. | Fill in the selling price for this product and send it again.
+10,,,Rejected,0,"This line could not be read as a product record. It looks like loose text: ""MER-ZZ-099 | Broken row | ₹ | S/M |||"".","Re-export this product from the ERP, or type it in as a proper row."
+11,MER-CP-050,Baseball Cap,Loaded with warning,2,"The image link does not work: ""htp:/cdn.meridianapparel.in/img/MER-CP-050 .jpg"". The product will load without a picture.","Send a working image link (https, ending in .jpg, .png or .webp)."
+12,MER-SK-060,A-Line Midi Skirt,Rejected,0,"HSN code '6204XYZ' does not look right. It should be 4, 6 or 8 digits.",Look up the correct HSN code for this product and update it.
+13,MER-HD-070,Zip Hoodie,Rejected,0,Selling price (2999) is higher than MRP (2499).,Check both prices. A product cannot be sold above its MRP.
+14,MER-SC-080,Cotton Scarf,Loaded,2,,

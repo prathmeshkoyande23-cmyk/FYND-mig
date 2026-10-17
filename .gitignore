@@ -1,0 +1,4 @@
+out/ingest_state.json
+out/api_responses/
+.env
+__pycache__/

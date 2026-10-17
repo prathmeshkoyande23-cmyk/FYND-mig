@@ -1,0 +1,46 @@
+item_sku,product_code,name,brand,size,colour,mrp,selling_price,hsn,gst_rate,image_url,description
+MER-TS-001-RED-S,MER-TS-001-RED,Classic Crew Neck T-Shirt - Red,Meridian,S,Red,1299.0,999.0,61091000,5,https://cdn.meridianapparel.in/img/MER-TS-001.jpg,"100% cotton crew neck tee, regular fit."
+MER-TS-001-RED-M,MER-TS-001-RED,Classic Crew Neck T-Shirt - Red,Meridian,M,Red,1299.0,999.0,61091000,5,https://cdn.meridianapparel.in/img/MER-TS-001.jpg,"100% cotton crew neck tee, regular fit."
+MER-TS-001-RED-L,MER-TS-001-RED,Classic Crew Neck T-Shirt - Red,Meridian,L,Red,1299.0,999.0,61091000,5,https://cdn.meridianapparel.in/img/MER-TS-001.jpg,"100% cotton crew neck tee, regular fit."
+MER-TS-001-RED-XL,MER-TS-001-RED,Classic Crew Neck T-Shirt - Red,Meridian,XL,Red,1299.0,999.0,61091000,5,https://cdn.meridianapparel.in/img/MER-TS-001.jpg,"100% cotton crew neck tee, regular fit."
+MER-TS-001-NAVY-S,MER-TS-001-NAVY,Classic Crew Neck T-Shirt - Navy,Meridian,S,Navy,1299.0,999.0,61091000,5,https://cdn.meridianapparel.in/img/MER-TS-001.jpg,"100% cotton crew neck tee, regular fit."
+MER-TS-001-NAVY-M,MER-TS-001-NAVY,Classic Crew Neck T-Shirt - Navy,Meridian,M,Navy,1299.0,999.0,61091000,5,https://cdn.meridianapparel.in/img/MER-TS-001.jpg,"100% cotton crew neck tee, regular fit."
+MER-TS-001-NAVY-L,MER-TS-001-NAVY,Classic Crew Neck T-Shirt - Navy,Meridian,L,Navy,1299.0,999.0,61091000,5,https://cdn.meridianapparel.in/img/MER-TS-001.jpg,"100% cotton crew neck tee, regular fit."
+MER-TS-001-NAVY-XL,MER-TS-001-NAVY,Classic Crew Neck T-Shirt - Navy,Meridian,XL,Navy,1299.0,999.0,61091000,5,https://cdn.meridianapparel.in/img/MER-TS-001.jpg,"100% cotton crew neck tee, regular fit."
+MER-TS-001-BLACK-S,MER-TS-001-BLACK,Classic Crew Neck T-Shirt - Black,Meridian,S,Black,1299.0,999.0,61091000,5,https://cdn.meridianapparel.in/img/MER-TS-001.jpg,"100% cotton crew neck tee, regular fit."
+MER-TS-001-BLACK-M,MER-TS-001-BLACK,Classic Crew Neck T-Shirt - Black,Meridian,M,Black,1299.0,999.0,61091000,5,https://cdn.meridianapparel.in/img/MER-TS-001.jpg,"100% cotton crew neck tee, regular fit."
+MER-TS-001-BLACK-L,MER-TS-001-BLACK,Classic Crew Neck T-Shirt - Black,Meridian,L,Black,1299.0,999.0,61091000,5,https://cdn.meridianapparel.in/img/MER-TS-001.jpg,"100% cotton crew neck tee, regular fit."
+MER-TS-001-BLACK-XL,MER-TS-001-BLACK,Classic Crew Neck T-Shirt - Black,Meridian,XL,Black,1299.0,999.0,61091000,5,https://cdn.meridianapparel.in/img/MER-TS-001.jpg,"100% cotton crew neck tee, regular fit."
+MER-TS-002-WHITE-M,MER-TS-002-WHITE,Graphic Print Tee,Meridian,M,White,1499.0,1199.0,6109,5,https://cdn.meridianapparel.in/img/MER-TS-002.jpg,Soft cotton tee with chest print.
+MER-TS-002-WHITE-L,MER-TS-002-WHITE,Graphic Print Tee,Meridian,L,White,1499.0,1199.0,6109,5,https://cdn.meridianapparel.in/img/MER-TS-002.jpg,Soft cotton tee with chest print.
+MER-TS-002-WHITE-XL,MER-TS-002-WHITE,Graphic Print Tee,Meridian,XL,White,1499.0,1199.0,6109,5,https://cdn.meridianapparel.in/img/MER-TS-002.jpg,Soft cotton tee with chest print.
+MER-JN-010-INDIGO-28,MER-JN-010-INDIGO,Slim Fit Stretch Jeans - Indigo,Meridian Denim,28,Indigo,3299.0,2499.0,62034200,5,https://cdn.meridianapparel.in/img/MER-JN-010.jpg,"Stretch denim, slim fit, mid rise."
+MER-JN-010-INDIGO-30,MER-JN-010-INDIGO,Slim Fit Stretch Jeans - Indigo,Meridian Denim,30,Indigo,3299.0,2499.0,62034200,5,https://cdn.meridianapparel.in/img/MER-JN-010.jpg,"Stretch denim, slim fit, mid rise."
+MER-JN-010-INDIGO-32,MER-JN-010-INDIGO,Slim Fit Stretch Jeans - Indigo,Meridian Denim,32,Indigo,3299.0,2499.0,62034200,5,https://cdn.meridianapparel.in/img/MER-JN-010.jpg,"Stretch denim, slim fit, mid rise."
+MER-JN-010-INDIGO-34,MER-JN-010-INDIGO,Slim Fit Stretch Jeans - Indigo,Meridian Denim,34,Indigo,3299.0,2499.0,62034200,5,https://cdn.meridianapparel.in/img/MER-JN-010.jpg,"Stretch denim, slim fit, mid rise."
+MER-JN-010-INDIGO-36,MER-JN-010-INDIGO,Slim Fit Stretch Jeans - Indigo,Meridian Denim,36,Indigo,3299.0,2499.0,62034200,5,https://cdn.meridianapparel.in/img/MER-JN-010.jpg,"Stretch denim, slim fit, mid rise."
+MER-JN-010-BLACK-28,MER-JN-010-BLACK,Slim Fit Stretch Jeans - Black,Meridian Denim,28,Black,3299.0,2499.0,62034200,5,https://cdn.meridianapparel.in/img/MER-JN-010.jpg,"Stretch denim, slim fit, mid rise."
+MER-JN-010-BLACK-30,MER-JN-010-BLACK,Slim Fit Stretch Jeans - Black,Meridian Denim,30,Black,3299.0,2499.0,62034200,5,https://cdn.meridianapparel.in/img/MER-JN-010.jpg,"Stretch denim, slim fit, mid rise."
+MER-JN-010-BLACK-32,MER-JN-010-BLACK,Slim Fit Stretch Jeans - Black,Meridian Denim,32,Black,3299.0,2499.0,62034200,5,https://cdn.meridianapparel.in/img/MER-JN-010.jpg,"Stretch denim, slim fit, mid rise."
+MER-JN-010-BLACK-34,MER-JN-010-BLACK,Slim Fit Stretch Jeans - Black,Meridian Denim,34,Black,3299.0,2499.0,62034200,5,https://cdn.meridianapparel.in/img/MER-JN-010.jpg,"Stretch denim, slim fit, mid rise."
+MER-JN-010-BLACK-36,MER-JN-010-BLACK,Slim Fit Stretch Jeans - Black,Meridian Denim,36,Black,3299.0,2499.0,62034200,5,https://cdn.meridianapparel.in/img/MER-JN-010.jpg,"Stretch denim, slim fit, mid rise."
+MER-JN-011-LIGHTBLUE-M,MER-JN-011-LIGHTBLUE,Relaxed Fit Denim Jacket,Meridian Denim,M,Light Blue,4499.0,3599.0,6201,18,https://cdn.meridianapparel.in/img/MER-JN-011.jpg,Washed denim jacket with button front.
+MER-JN-011-LIGHTBLUE-L,MER-JN-011-LIGHTBLUE,Relaxed Fit Denim Jacket,Meridian Denim,L,Light Blue,4499.0,3599.0,6201,18,https://cdn.meridianapparel.in/img/MER-JN-011.jpg,Washed denim jacket with button front.
+MER-JN-011-LIGHTBLUE-XL,MER-JN-011-LIGHTBLUE,Relaxed Fit Denim Jacket,Meridian Denim,XL,Light Blue,4499.0,3599.0,6201,18,https://cdn.meridianapparel.in/img/MER-JN-011.jpg,Washed denim jacket with button front.
+MER-SH-020-WHITE-S,MER-SH-020-WHITE,Linen Casual Shirt - White,Meridian,S,White,2199.0,1799.0,62052000,5,https://cdn.meridianapparel.in/img/MER-SH-020.jpg,Breathable linen blend shirt.
+MER-SH-020-WHITE-M,MER-SH-020-WHITE,Linen Casual Shirt - White,Meridian,M,White,2199.0,1799.0,62052000,5,https://cdn.meridianapparel.in/img/MER-SH-020.jpg,Breathable linen blend shirt.
+MER-SH-020-WHITE-L,MER-SH-020-WHITE,Linen Casual Shirt - White,Meridian,L,White,2199.0,1799.0,62052000,5,https://cdn.meridianapparel.in/img/MER-SH-020.jpg,Breathable linen blend shirt.
+MER-SH-020-WHITE-XL,MER-SH-020-WHITE,Linen Casual Shirt - White,Meridian,XL,White,2199.0,1799.0,62052000,5,https://cdn.meridianapparel.in/img/MER-SH-020.jpg,Breathable linen blend shirt.
+MER-SH-020-SKYBLUE-S,MER-SH-020-SKYBLUE,Linen Casual Shirt - Sky Blue,Meridian,S,Sky Blue,2199.0,1799.0,62052000,5,https://cdn.meridianapparel.in/img/MER-SH-020.jpg,Breathable linen blend shirt.
+MER-SH-020-SKYBLUE-M,MER-SH-020-SKYBLUE,Linen Casual Shirt - Sky Blue,Meridian,M,Sky Blue,2199.0,1799.0,62052000,5,https://cdn.meridianapparel.in/img/MER-SH-020.jpg,Breathable linen blend shirt.
+MER-SH-020-SKYBLUE-L,MER-SH-020-SKYBLUE,Linen Casual Shirt - Sky Blue,Meridian,L,Sky Blue,2199.0,1799.0,62052000,5,https://cdn.meridianapparel.in/img/MER-SH-020.jpg,Breathable linen blend shirt.
+MER-SH-020-SKYBLUE-XL,MER-SH-020-SKYBLUE,Linen Casual Shirt - Sky Blue,Meridian,XL,Sky Blue,2199.0,1799.0,62052000,5,https://cdn.meridianapparel.in/img/MER-SH-020.jpg,Breathable linen blend shirt.
+MER-KT-030-MUSTARD-S,MER-KT-030-MUSTARD,Printed Cotton Kurta,Meridian Ethnic,S,Mustard,1999.0,1599.0,62114390,5,https://cdn.meridianapparel.in/img/MER-KT-030.jpg,Straight kurta with block print.
+MER-KT-030-MUSTARD-M,MER-KT-030-MUSTARD,Printed Cotton Kurta,Meridian Ethnic,M,Mustard,1999.0,1599.0,62114390,5,https://cdn.meridianapparel.in/img/MER-KT-030.jpg,Straight kurta with block print.
+MER-KT-030-MUSTARD-L,MER-KT-030-MUSTARD,Printed Cotton Kurta,Meridian Ethnic,L,Mustard,1999.0,1599.0,62114390,5,https://cdn.meridianapparel.in/img/MER-KT-030.jpg,Straight kurta with block print.
+MER-KT-030-MUSTARD-XL,MER-KT-030-MUSTARD,Printed Cotton Kurta,Meridian Ethnic,XL,Mustard,1999.0,1599.0,62114390,5,https://cdn.meridianapparel.in/img/MER-KT-030.jpg,Straight kurta with block print.
+MER-KT-030-MUSTARD-XXL,MER-KT-030-MUSTARD,Printed Cotton Kurta,Meridian Ethnic,XXL,Mustard,1999.0,1599.0,62114390,5,https://cdn.meridianapparel.in/img/MER-KT-030.jpg,Straight kurta with block print.
+MER-CP-050-BLACK-FREESIZE,MER-CP-050-BLACK,Baseball Cap - Black,Meridian Active,Free Size,Black,799.0,599.0,65050090,12,,Adjustable cotton cap. Image link is broken.
+MER-CP-050-WHITE-FREESIZE,MER-CP-050-WHITE,Baseball Cap - White,Meridian Active,Free Size,White,799.0,599.0,65050090,12,,Adjustable cotton cap. Image link is broken.
+MER-SC-080-RED-FREESIZE,MER-SC-080-RED,Cotton Scarf - Red,Meridian,Free Size,Red,699.0,499.0,62142090,12,https://cdn.meridianapparel.in/img/MER-SC-080.jpg,"Lowercase SKU and extra spaces, should be cleaned up."
+MER-SC-080-BEIGE-FREESIZE,MER-SC-080-BEIGE,Cotton Scarf - Beige,Meridian,Free Size,Beige,699.0,499.0,62142090,12,https://cdn.meridianapparel.in/img/MER-SC-080.jpg,"Lowercase SKU and extra spaces, should be cleaned up."
