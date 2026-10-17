@@ -16,7 +16,7 @@ Settings come from environment variables (see config.example.env):
 Sign-in, either of:
   FYND_CLIENT_ID + FYND_CLIENT_SECRET   the script fetches a token itself and
                                         fetches a new one if it expires mid-run
-  FYND_ACCESS_TOKEN                     a token you generated yourself (lasts ~1 hour)
+  FYND_ACCESS_TOKEN a token you generated yourself (lasts ~1 hour)
 Optional:
   FYND_HOST (default https://api.fynd.com), FYND_CREATE_PATH, FYND_TOKEN_SCOPE,
   FYND_COUNTRY_OF_ORIGIN, FYND_RETURNABLE, FYND_RETURN_DAYS,
@@ -47,9 +47,9 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-DEFAULT_HOST = "https://api.fynd.com"
+DEFAULT_HOST = "https://console.fynd.com/"
 # createProduct in Fynd's Platform catalog reference. (v2.0 on this address is "List products".)
-DEFAULT_CREATE_PATH = "/service/platform/catalog/v3.0/company/{company_id}/products/"
+DEFAULT_CREATE_PATH = "commerce/asia-south1/accounts/17411/products/list"
 
 MAX_RETRIES = 5
 
